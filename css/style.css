@@ -1,0 +1,47 @@
+body {
+	background-color: snow;
+	font-family: Courier New;
+
+}
+.navcolor{
+	background-color: rosybrown;
+
+}
+
+.theblogtitle { 
+	text-align: left;
+	color: white;
+	height: 270px;
+	font-size: 70px;
+	background-image: url(https://assets.vogue.com/photos/589185524fe1526113022cd3/master/pass/04-yves-saint-laurent-muses-betty-catroux-yves-saint-laurent.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+ }
+
+ .mainparagraph {
+ 	font-style: italic;
+ }
+
+ .topdestination {
+ 	font-weight: bold;
+ }
+
+.bestbrunch {
+	font-weight:bold;
+}
+
+.bodytravel{
+	background-color: snow;
+}
+.annequote{
+	font-size: 30px;
+	font-style: italic;
+}
+
+.menu{
+	font-weight: normal;
+}
+.beautyproduct{
+	font-weight: bold;
+}
